@@ -28,6 +28,7 @@ export default function Home(props: HomeProps) {
       <div className={styles.container}>
         <Head>
           <title>Início | move.it</title>
+          <script data-ad-client="ca-pub-4698968557005948" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         </Head>
 
         <ExperienceBar />
